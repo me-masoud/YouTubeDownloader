@@ -1,4 +1,4 @@
-# youtubeDownloader
+# YouTubeDownloader
 
 Install python3 and pip on your os (if your system does not recognize python or pip after instalation reboot the system)
 
